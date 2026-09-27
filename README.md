@@ -300,7 +300,7 @@ Actualmente permite:
 
 ## Autor
 
-**Luis Eduardo Hurtado Medina**
+**Karen Nathalia Martinez**
 
 Proyecto desarrollado como parte de un portafolio técnico enfocado en automatización, integración de APIs e inteligencia artificial aplicada.
 
