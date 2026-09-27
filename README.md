@@ -259,17 +259,13 @@ peper-assistant/
 └── .gitignore
 ```
 
-## Capturas recomendadas
+## Privacidad y gestión de datos
+Para la integración con Meta / WhatsApp Business Cloud, el proyecto cuenta con páginas públicas de información legal y gestión de datos:
+- 📄 Términos y condiciones: https://sites.google.com/view/karen-terminosn8n/inicio
+- 🗑️ Eliminación de datos: https://sites.google.com/view/karenm-eliminacion-de-datosn8n/inicio
+- 🔐 Política de privacidad: https://sites.google.com/view/karenmn8n/inicio
+Estas páginas permiten informar al usuario sobre el tratamiento de datos, las condiciones de uso y el procedimiento para solicitar la eliminación de información asociada al servicio.
 
-Añade al repositorio imágenes de:
-
-1. Workflow principal.
-2. Agent Builder con Peper y sus skills.
-3. Data Table de recordatorios.
-4. Workflow `Peper - Esperar recordatorio` en estado Waiting.
-5. Mensaje recibido automáticamente por WhatsApp.
-6. Registro en Google Sheets.
-7. Evento creado en Google Calendar.
 
 ## Demo
 
